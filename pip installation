@@ -1,0 +1,11 @@
+download pip
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+install pip :
+python get-pip.py
+
+
+
+set apth for env variable
+
+export PATH="/Users/tr-soundar.doraiswam/Library/Python/3.12/bin:$PATH"
